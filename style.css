@@ -39,6 +39,10 @@ header
   font-weight: 700;
   text-decoration: none;
 }
+.logo:hover
+{
+  color: red;
+}
 header ul
 {
   display: flex;
@@ -62,6 +66,10 @@ header ul li a:hover
 header span
 {
   color: red;
+}
+header span:hover
+{
+  color: rgb(0,0,0);
 }
 .content
 {
